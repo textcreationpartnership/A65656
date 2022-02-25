@@ -1,0 +1,251 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A small present to a Roman Catholique in opposition to his present hear-say tradition, as not agreeable to the rule of faith ... / by Henry Whistler, Bac. Theol.</title>
+            <author>Whistler, Henry.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1657</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65656</idno>
+            <idno type="STC">Wing W1678A</idno>
+            <idno type="STC">ESTC R30189</idno>
+            <idno type="EEBO-CITATION">11258643</idno>
+            <idno type="OCLC">ocm 11258643</idno>
+            <idno type="VID">47182</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A65656)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 47182)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1452:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A small present to a Roman Catholique in opposition to his present hear-say tradition, as not agreeable to the rule of faith ... / by Henry Whistler, Bac. Theol.</title>
+                  <author>Whistler, Henry.</author>
+               </titleStmt>
+               <extent>[2], 17 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by W.W. for Thomas Paybody ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1657.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Controversial literature.</term>
+               <term>Popes --  Primacy.</term>
+               <term>Authority --  Religious aspects.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:47182:1"/>
+            <pb facs="tcp:47182:1"/>
+            <p>A SMALL PRESENT To a Roman CATHOLIQUE, IN Oppoſition to his preſent Hear-ſay Tradition, as not agreeable to the Rule of Faith.</p>
+            <p>By one that deſires to walke with meek<g ref="char:EOLhyphen"/>neſſe towards them of a contrary way, if God peradventure will give them repen<g ref="char:EOLhyphen"/>tance to the acknowledging of the truth, and that they may awake out of the ſnare of the Devil; as others awaking have wondred at their own vanity and miſery, dreaming ſo long without any ſound reaſon.</p>
+            <p>By <hi>Henry Whiſtler,</hi> Bac. Theol.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>W. W.</hi> for <hi>Thomas Paybody</hi> dwel<g ref="char:EOLhyphen"/>ling in Queenes Head Court, in Pater No<g ref="char:EOLhyphen"/>ſter Row, 1657.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:47182:2"/>
+            <pb n="1" facs="tcp:47182:2" rendition="simple:additions"/>
+            <head>A ſmall PRESENT To <hi>A Roman Catholique.</hi>
+            </head>
+            <head type="sub">In oppoſition to his preſent Hear-ſay <hi>Tra<g ref="char:EOLhyphen"/>dition,</hi> as not agreeable to the rule of Faith.</head>
+            <p>
+               <seg rend="decorInit">A</seg> Roman Catholique Neighbour, lately viſiting me with uſual reſpect, I, after my uſuall manner of hearty affection, would have perſwaded him to Refor<g ref="char:EOLhyphen"/>mation, for the good of his ſoul.</p>
+            <p>He replyed, If his ſoul and others like, were un<g ref="char:EOLhyphen"/>ſafe, they were moſt of any men to be pittied, ha<g ref="char:EOLhyphen"/>ving ſo many things perſwading to reſt under the <hi>Roman-Church</hi> Judgment for certainty. Before, I had long ſince given out ſome Papers to prove the <hi>Ro<g ref="char:EOLhyphen"/>man-Church</hi> contradictory to herſelf in all her waies. So the <hi>beame</hi> being broken, it would not be ſafe or juſt to <hi>weigh</hi> in her <hi>balances.</hi>
+            </p>
+            <p>He deſired of me ſomething againe in writing, for their learned to read; whereof he had heard
+<pb n="2" facs="tcp:47182:3"/>lately divers ſay, that they wanted worke, and for reviving occaſion, he brought <hi>Ruſhworths Dialogue</hi> which waveth my former allegations, in effect thereby granted; and endeavoureth an other way of certainty for his <hi>Diſciple</hi> in diſpute againſt Pro<g ref="char:EOLhyphen"/>teſtancy, not to truſt either Holy Scripture, or o<g ref="char:EOLhyphen"/>ther Bookes alleadged for the proofe of the <hi>Roman</hi> Religion through all ages, though commending ſuch ſtudents as for their great and profitable paines, but not appliable to the capacities of the Vulgar, who might therein be intangled if they meet with a cunning Adverſary: but rather ſe<g ref="char:EOLhyphen"/>curely to reſt in prepoſſeſſion of the <hi>Roman Church,</hi> of the preſent Age; believing his <hi>Chriſtian Fathers</hi> in report from <hi>Chriſtian Fore-fathers,</hi> of what they affirmed age after age, to have learned as by Tradi<g ref="char:EOLhyphen"/>tion univerſall from <hi>Chriſt</hi> and his <hi>Apoſtles:</hi> with<g ref="char:EOLhyphen"/>out any knowne opponent, it ſeeming impoſſible that at any time <hi>all Fathers</hi> ſhould together deceive <hi>their children;</hi> or that all Children ſhould in all Countries be ſuddainely deceived without any known cauſe, or any known time of ſuch univer<g ref="char:EOLhyphen"/>ſall change: a meere Dreame.</p>
+            <p>
+               <q>Before you require us to ſhew ſuch time of change, prove any ſuch time, of univerſall accord in the preſent points of the Roman Faith and pra<g ref="char:EOLhyphen"/>ctice. The preſent points controverted, are not contained in the ancient Creeds, &amp; therefore not then believed to be neceſſary. The points of anci<g ref="char:EOLhyphen"/>ent Creeds are ſufficiently grounded in holy Scrip<g ref="char:EOLhyphen"/>tures: the Scriptures ſo ſure, that the Romans were delivered thereunto (<hi>Rom.</hi> 6.17.) to obey,
+<pb n="3" facs="tcp:47182:3"/>not to overcome the form of Doctrine to which they were delivered, as ſince they deny, what the Canonical Epiſtle to the <hi>Romans</hi> affirmeth, (con<g ref="char:EOLhyphen"/>cupiſcence to be ſinne) and affirm what is there<g ref="char:EOLhyphen"/>in denyed (Juſtification by Workes.) The Ro<g ref="char:EOLhyphen"/>man Church oppoſed the whole Epiſtle to the <hi>Hebrewes</hi> as not Canonical, witneſſe <hi>Jerome</hi> and <hi>Auguſtine,</hi> who nevertheleſſe profeſſed that they believed it to be Canonicall; A cleare proofe that they did not believe the <hi>Roman</hi> Tradition to beare the rule. Tradition for the power of a general Councill, alleadged in publique by the generall Councill at <hi>Baſil</hi> againſt Tradition, al<g ref="char:EOLhyphen"/>leadged in publique for the Popes power to be ſupreame. How excuſeable from contradi<g ref="char:EOLhyphen"/>ction.</q>
+            </p>
+            <p>Hear now the Roman Catholique-Diſciple his Interloquie.</p>
+            <p>I am told that ſome of our Doctors doe main<g ref="char:EOLhyphen"/>taine, that in the perſon of the Pope, reſides the Rule of faith by a ſingular gift and priviledge be<g ref="char:EOLhyphen"/>ſtowed on St. <hi>Peter</hi> and his ſucceſſors. And this ſo rigorouſly, that no <hi>Generall Councill</hi> (no not though the Popes Legates be preſent and confirm it) is of force to oblige as of <hi>faith,</hi> till the perſo<g ref="char:EOLhyphen"/>nall confirmation of his <hi>Holineſſe</hi> be obtained. Others they ſay, eſteeme the Councill above the <hi>Pope,</hi> and ſo hold his approbation unneceſſa<g ref="char:EOLhyphen"/>ry; and that the rule of faith reſts in the Coun<g ref="char:EOLhyphen"/>cill. Others, to make all ſafe, joyne both in one, and neither admit the Councill without the Pope; nor the Pope without the Councill, to breed any Obligation of Faith. And farther, I
+<pb n="4" facs="tcp:47182:4"/>hear that, among theſe Divines (of what opini<g ref="char:EOLhyphen"/>on ſoever they be; touching the ſubject in which this Rule or higheſt Authority reſides) ſome thinke <hi>no new Doctrine can he breached or propoſed as certaine, and as an Article of faith by what authority ſoever; unleſſe it were eſteemed certaine before, and al<g ref="char:EOLhyphen"/>waies believed as ſuch:</hi> yet they tell me, <hi>there are ma<g ref="char:EOLhyphen"/>ny who maintaine, that this higheſt Authority of the Church</hi> (where ever it is) <hi>may define points of Do<g ref="char:EOLhyphen"/>ctrine not certainly knowne hitherto, nor ever expreſly believed before.</hi> And how all theſe opinions can be reconciled among themſelves, or ſtand with this, that <hi>Tradition</hi> is our Rule of Faith, I confeſſe I know not; ſaith <hi>the Couſen</hi> in that Dialogue, to which the <hi>perſonate Uncle</hi> anſwereth.</p>
+            <p>For the firſt part of your Objection, I ſee no great matter in the <hi>variety</hi> of opinions among our learned: for they onely ſeeke out the <hi>Decider</hi> of points of Doctrine (that is) by whoſe mouth we are to know (on occaſions of diſpute) which be our <hi>Articles of faith,</hi> whether by the <hi>Popes,</hi> or <hi>Coun<g ref="char:EOLhyphen"/>cels,</hi> or both; which is not much material to our purpoſe, whatever the truth be. Suppoſing we <hi>acknowledge</hi> no Articles of Faith, but ſuch as have deſeended to us by <hi>Tradition</hi> from <hi>Christ</hi> and his Apoſtles.</p>
+            <p>
+               <q>Among Proteſtants, are not allowed ſuch un<g ref="char:EOLhyphen"/>grounded ſuppoſitions (as <hi>petitio principii</hi>) beg<g ref="char:EOLhyphen"/>ging the thing in queſtion, unreaſonable to be granted; in things of diſpute where you ac<g ref="char:EOLhyphen"/>knowledge no certaine Decider, whereby to know the rule of your ſuppoſed ſureneſs: the name of <hi>Tradition</hi> being equivocall, as drawne
+<pb n="5" facs="tcp:47182:4"/>to ſeveral ſenſes in their threefold vehement o<g ref="char:EOLhyphen"/>pinions, ſo diſtinct about the rule with mutual denunciation of curſes one againſt another in publique, as about the Roman Catholique pro<g ref="char:EOLhyphen"/>poſall of faith, therefore uncertain in it ſelf, and uncertaine toward others: Particular men be<g ref="char:EOLhyphen"/>ing unable to ſearch all Books, whether coun<g ref="char:EOLhyphen"/>terfeit, or not, in ſo many languages, or other<g ref="char:EOLhyphen"/>waies to diſcern what hath ſucceeded in a tra<g ref="char:EOLhyphen"/>ditionary way of all ages in their own or other Countries.</q>
+            </p>
+            <p>The ſecond part of your Objection ſeemes of greater force (ſaid the Uncle to his Ro. ro. Co<g ref="char:EOLhyphen"/>ſen) becauſe ſome of the learned acknowledge an authority in the <hi>(Roman)</hi> Church, not onely to determine either ſpeculative or practicall points of Doctrine, new or old; ſo as the whole Church is obliged to accept, or not oppoſe its definition: but alſo that it can ſo decree even a ſpeculative point of Doctrine hitherto alwaies held uncer<g ref="char:EOLhyphen"/>taine, and never acknowledged as revealed, ne<g ref="char:EOLhyphen"/>ver eſteemed an Article of Faith; that hereafter the whole Church ſhall be obliged to believe it is a reveal'd and neceſſary point of Chriſtian Faith, which you muſt know is but an Opinion: nor do the Authors of it oblige any to believe it as cer<g ref="char:EOLhyphen"/>taine; nor condemn thoſe who neither doe, nor ever will admit ſuch Poſition: that there's now no Revelations for new points of Doctrine; that <hi>Chriſt Jeſus</hi> was our only Law-maker in this kind, having delivered to his Apoſtles, and they to their Churches, all that was neceſſary to be
+<pb n="6" facs="tcp:47182:5"/>knowne of this degree, and therefore</p>
+            <p>
+               <q>Stay Sir, out of ſuch premiſes of ſuch <hi>Ro<g ref="char:EOLhyphen"/>man</hi> Catholique Teachers (as are agreeable to Proteſtants adviſement) conclude not over ha<g ref="char:EOLhyphen"/>ſtily to make your Diſciple unſafe in not being troubled at your differences; ſince contrary to your minde, thoſe high Competitors for Au<g ref="char:EOLhyphen"/>thority, do decree new points of Doctrine, and would oblige all others under paine of eternall damnation.</q>
+            </p>
+            <p>
+               <hi>[Oblige and not oblige]</hi> How your ſpeech croſ<g ref="char:EOLhyphen"/>ſeth it ſelfe? and yet (as an Aeger cutteth and ſmootheth) all ſmoothly ſubmitted to <hi>Tradition:</hi> a name of ſtrong deluſion, inchanting to receive, as if that had come continually fluent from <hi>Chriſt,</hi> which is againſt <hi>Chriſt,</hi> and againſt the definition of <hi>generall Councils</hi> (as <hi>Image-worſhip againſt the com<g ref="char:EOLhyphen"/>mandement of God, and againſt the determination of two ſeverall Councils, one at</hi> Franck ford <hi>abbetting that o<g ref="char:EOLhyphen"/>ther at</hi> Conſtantinople) <hi>and that at</hi> Conſtance <hi>for<g ref="char:EOLhyphen"/>bidding to communicate lay people under both kindes, notwithſtanding the institution of Chriſt, and the pra<g ref="char:EOLhyphen"/>ctice of the primitive Church, communicating the peo<g ref="char:EOLhyphen"/>ple under both;</hi> both Chriſt and his Apoſtles cal<g ref="char:EOLhyphen"/>ling the Cup, the Covenant in <hi>Chriſts blood;</hi> which before the face of <hi>Chriſt,</hi> barreth the plea of <hi>Roman Tradition</hi> therein: and that <hi>(conſtantian non ob<g ref="char:EOLhyphen"/>ſtante)</hi> pleadeth but <hi>cuſtome,</hi> and that <hi>abuſively,</hi> be<g ref="char:EOLhyphen"/>ing not in memoriall <hi>à parte ante,</hi> before the <hi>begin<g ref="char:EOLhyphen"/>ning,</hi> whereof the <hi>Primitive</hi> practice and inſtitu<g ref="char:EOLhyphen"/>tion are acknowledged on the contrary for us.</p>
+            <p>In full communion; to ſay no more of other new points in the profeſſion upon Oath, which
+<pb n="7" facs="tcp:47182:5"/>you acknowledge to make uſe of at admiſſion of others to your Church, ſince <hi>P. Pius</hi> 4. Alas, un<g ref="char:EOLhyphen"/>warie ſoules, engulphed thereby to profeſſe the fatall <hi>inſinuating</hi> guiles, under pretence of <hi>Tradi<g ref="char:EOLhyphen"/>tions,</hi> not knowing what, nor how many, nor how ſafely to <hi>diſcern</hi> among ſo many falſe, unrighteous and evill; ſince <hi>evill spirits</hi> and <hi>falſe Teachers</hi> aroſe in the Apoſtles time, and multiplying afterwards, rendred <hi>Hear-ſay</hi> a moſt unſafe guide, eſpecially ſince that Councill of <hi>Trent</hi> (through finall de<g ref="char:EOLhyphen"/>volution of all to Pope <hi>Pius</hi> the 4. againſt the Papall confirmations of ſo many former Coun<g ref="char:EOLhyphen"/>cil's Acts) hath <hi>fruſtrated</hi> the diſcretive Rules, ei<g ref="char:EOLhyphen"/>ther by Pope or Councill, or both Pope and Councill together, evaporating in your fume as but <hi>Opinions;</hi> although moſt elaborate in ſo many named generall Councils, the latter the worſe re<g ref="char:EOLhyphen"/>preſentative of your high minded <hi>Roman</hi> Church, all eaſie to be convinced of <hi>contradiction,</hi> a bar a<g ref="char:EOLhyphen"/>gainſt all hope of any certification by that your imaginary <hi>Traditioning</hi> way, without any rule or forme of certainty whereby to diſcern pretences of <hi>traditionall</hi> matters, either practicall, or eſpe<g ref="char:EOLhyphen"/>cially ſpeculative, experience enough in 2400 yeares from the beginning, when a man living 800 or 900 yeares, Doctrines might more eaſi<g ref="char:EOLhyphen"/>ly deſcend by <hi>Tradition,</hi> from Grandfathers to Grandchildren; yet if then by the ſubtle enemy, <hi>Tradition</hi> was poiſoned, and curſedly did poyſon with <hi>Babylonion</hi> bitterneſſe, in ambition of an uni<g ref="char:EOLhyphen"/>verſal ſelfe-wiſe <hi>Monarchy,</hi> worſhipping <hi>Images</hi> of the dead, and worſhipping the dead <hi>falſe gods;</hi> abominable Idolatry, ſuperſtition, cruell perſe<g ref="char:EOLhyphen"/>cution
+<pb n="8" facs="tcp:47182:6"/>againſt the then worſhippers of the onely true <hi>God.</hi>
+            </p>
+            <p>
+               <hi>Traditionary</hi> wiſdome ſo putrifying, man-kinde needed to have the Law written; and at need <hi>God</hi> writ it with his owne finger in Tables of Stone, and bid <hi>Moſes</hi> write in a Booke, againſt which the evil ſpirit of enmity practiſed by force and fraud.</p>
+            <p>Firſt by force of <hi>leſſer Potentates;</hi> after that, by the four <hi>mighty Beaſts</hi> deſcried in <hi>Daniels</hi> viſion Prophetically; the <hi>Babylonion, Perſian, Grecian, Ro<g ref="char:EOLhyphen"/>man,</hi> as in that Imperiall outragious publique Edict to burne the <hi>Bible;</hi> the Chriſtians patience overcomming the <hi>Roman</hi> perſecutors: thence<g ref="char:EOLhyphen"/>forth the ſubtleſt infernall enmity projected by fraud in Lamb-like profeſſion, hypocritical<g ref="char:EOLhyphen"/>ly to defeat the power of Chriſtian Religi<g ref="char:EOLhyphen"/>on, by ſubduing the written Word of God to <hi>Tradition</hi> again, in two grand perilous impoſtures.</p>
+            <p>One, as if <hi>Tradition</hi> were more certain to men.</p>
+            <p>An other, as if <hi>Tradition</hi> were more perfit; ſo piecing out ſalvifical Doctrine, partly by unwrit<g ref="char:EOLhyphen"/>ten <hi>Tradition,</hi> and partly by depreſſing what is written as it were uncertain, and having no cer<g ref="char:EOLhyphen"/>tainty toward us, but in dependence upon <hi>Tradi<g ref="char:EOLhyphen"/>tion</hi> unwritten.</p>
+            <p>A fraud moſt miſchievous, moſt wiſely preven<g ref="char:EOLhyphen"/>ted by the providence of God, the Holy Ghoſt, in <hi>Booking</hi> the New Teſtament, with thoſe two glo<g ref="char:EOLhyphen"/>rious praiſes of <hi>Certainty,</hi> and of <hi>Integrity.</hi>
+            </p>
+            <p>More <hi>certainty</hi> by writing, then by preaching the Goſpell, as affirmed in the firſt verſes of St. <hi>Lukes</hi> Goſpel; admirable caution of Gods holy
+<pb n="9" facs="tcp:47182:6"/>Spirit <hi>enditing;</hi> ſo that the <hi>Papiſts</hi> own authorized Teſtament unfaſteneth it not, as an impertinent movable, but as the verſes prime in that firſt chap<g ref="char:EOLhyphen"/>ter of St. <hi>Luke.</hi>
+            </p>
+            <p>Having heard and learned the Goſpel truths from thoſe that were eye-witneſſes and miniſters of the word from the beginning, the very prime advan<g ref="char:EOLhyphen"/>tantage of <hi>Tradition,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Tradiderunt</hi> tradition<g ref="char:EOLhyphen"/>ed, or by <hi>tradition</hi> delivered the ſame from thoſe firſt Teachers; <hi>yet it ſeemed good to me to write thoſe things for</hi> certainty: the <hi>Rhemiſts</hi> tranſlate it <hi>Verity:</hi> that is not enough, it was <hi>Verity</hi> before in the firſt Teachers, but in writing is more, aſſured <hi>certainty:</hi> yea more yet, as beyond all <hi>fallacy,</hi> without all <hi>fal<g ref="char:EOLhyphen"/>lacious</hi> or <hi>fallible incertainty;</hi> free, from <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>tutum</hi> ſafe to write, <hi>Phil.</hi> 3.1. For me to write ſafe for you, (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the word here) <hi>ſecurity;</hi> ſecure verity taught before, yet farther for <hi>ſecurity</hi> to be written, it is good to read it written for aſ<g ref="char:EOLhyphen"/>ſuring, ſecuring, certifying the things wherein thou art <hi>inſtructed,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>catechiſed</hi> even in the Prin<g ref="char:EOLhyphen"/>ciples of ſaving Faith, although inſtructed, cate<g ref="char:EOLhyphen"/>chiſed by the firſt Teachers, in the firſt ſpring of <hi>Tradition;</hi> yet it is ſafe, ſecure, to be further ſecu<g ref="char:EOLhyphen"/>red of thoſe things, moſt excellent <hi>Theophilus,</hi> by in<g ref="char:EOLhyphen"/>terpretation, a <hi>lover of God.</hi>
+            </p>
+            <p>The ancient <hi>Epiphanius</hi> Haereſ. 51. found it not certaine to be the name of any <hi>particular man,</hi> but ſaith, it might be ſpoken to every <hi>true lover of God,</hi> and the Papiſts Annotations acknowledge it; as the <hi>Bereans</hi> were eſteemed more noble than others for ſearching the Scriptures, whether thoſe things were ſo as they heard preached. If the caſe were ſo at firſt when <hi>tradition</hi> was more eaſie; much more
+<pb n="10" facs="tcp:47182:7"/>now (after ſo long time hath multiplyed <hi>errors,</hi> and the ſpirit of envy ſowed <hi>tares,</hi> and numberleſs falſe Prophets have wrought their nets of <hi>ſubtle fal<g ref="char:EOLhyphen"/>lacies</hi>) ought the lovers, if their own ſoules be lo<g ref="char:EOLhyphen"/>vers of Gods <hi>written Word,</hi> to ſecure themſelves, that as our Saviour argued the <hi>Jews</hi> to have been decei<g ref="char:EOLhyphen"/>ved by <hi>Tradition</hi> from their forefathers: ſo the <hi>Gentiles</hi> might not unwarily be caught by pretended <hi>Tradition</hi> from the Apoſtles; as the Apoſtles of us <hi>Gentiles,</hi> forewarned.</p>
+            <p>Here in <hi>Ruſhworths Dialogue,</hi> the 3<hi rend="sup">d</hi> 
+               <hi>Sect.</hi> 9. the Ne<g ref="char:EOLhyphen"/>phew interpoſeth in ſeaſon, ſaying, <hi>P.</hi> 197. <hi>I have another great difficulty, that our Catechiſts and Preachers, when they teach us Chriſtian Doctrine, tell us, Thus you are to believe, This you are to practiſe,</hi> without expreſſing the differences betwixt the points of Doctrine; whereof ſome perhaps are but onely the <hi>Anſwers</hi> of learned men, ſome <hi>definitions</hi> of the Church, and ſome matters of <hi>Traditions.</hi>
+            </p>
+            <p>The like I believe of former Ages; Chriſtian Doctrine deſcending to us ſo in a heap or confuſi<g ref="char:EOLhyphen"/>on, that 'tis hard to diſtinguiſh what is of <hi>Tradition,</hi> what the general conſent of the Church, and what onely Opinions of the learned; why then may not ſome Poſition of this laſt rank, paſſe for a <hi>Tra<g ref="char:EOLhyphen"/>dition</hi> by the adoption of ſome ages, in which it will be forgotten that ever it had its beginning from the wit and induſtry of private Doctors? And <hi>Sect.</hi> 10 <hi>I feare it would break the rule and certainty of</hi> Tra<g ref="char:EOLhyphen"/>dition: <hi>whereon relies the whole frame and building of our Faith;</hi> according to your diſcourſe, if truth not delivered by <hi>Tradition,</hi> may paſſe for ſo delivered; what ſecurity can we have, that a <hi>falſity</hi> may not paſſe in the ſame manner, and ſo bring in <hi>error</hi> a<g ref="char:EOLhyphen"/>mong us.</p>
+            <pb n="11" facs="tcp:47182:7"/>
+            <p> A doubt wiſely framed in the name of a Learner but not well anſwered by <hi>Ruſhworth</hi> the Dialogiſt in the perſon of the Teacher, as appeareth in theſe his words, <hi>P.</hi> 199. <hi>However the <g ref="char:V">Ʋ</g>ulgar people ſeldome obſerve any difference what is</hi> Tradition, <hi>and what but of common Opinion.</hi> (<q>How doth that <hi>ſeldome</hi> not o<g ref="char:EOLhyphen"/>verthrow Tradition, ſo diſabled from being the Rule or motive of their Faith?</q>) Nevertheleſſe thoſe know how to diſtinguiſh Doctrins of ſuch different natures, whom we call Divines, if truly ſuch as the name requires. Who can be truly ſuch as the name requires?</p>
+            <q>
+               <p>Truly the name appertaines to Gods attri<g ref="char:EOLhyphen"/>butes, and works; as divine wiſdome, divine po<g ref="char:EOLhyphen"/>wer, divine goodneſſe, divine ſanctification, and divine indignation for condemnation, of ſuch as take his divine name in vain.</p>
+               <p>Therefore as learned <hi>Bellarmine</hi> in his Retracta<g ref="char:EOLhyphen"/>tions, blamed his former Bookes whereſoever he had given the names of <hi>Divus</hi> or <hi>Diva,</hi> to Saints of the <hi>Roman</hi> Calender, becauſe <hi>Divas</hi> and <hi>Diva</hi> were the Titles which Hetheniſme gave to falſe gods and goddeſſes: hearty zeale, wiſheth all would abſtaine from naming men <hi>Divines.</hi>
+               </p>
+            </q>
+            <p>But to take your meaning, out of your follow<g ref="char:EOLhyphen"/>ing words. <hi>Learned men know; of Doctrine and Diſci<g ref="char:EOLhyphen"/>pline, ſome parts are ſuch as cannot be learned but by im<g ref="char:EOLhyphen"/>mediate revelation; others ſuch as no ſenſible perſon can doubt of, if he believe the former: other points there may be, which need art and ſtudy to deduce and draw them out of the two former — every one (converſant in Lo<g ref="char:EOLhyphen"/>gick, and in judging the qualities of ſuch propoſitions as belong to ſcience) is capable of underſtanding theſe Theologicall concluſions.</hi>
+            </p>
+            <pb n="12" facs="tcp:47182:8"/>
+            <p> Beware of Deluſions in falſe Concluſions, Se<g ref="char:EOLhyphen"/>ductions in pretence of Deductions, at that very time in that manner. Under the laſt Head-ſhip of <hi>Rome,</hi> grievous motions were to come, and ſo they came; Event the ſure interpreter of truth, againſt Novelties crept in, (ſubtle inſinuations of that myſtery of iniquity foretold) the vulgar ſoules are enſlaved to truſt your <hi>Deductions</hi> by mans diſcourſe which is fallible and eaſily miſta<g ref="char:EOLhyphen"/>ken, and uncertaine in various Opinions; depen<g ref="char:EOLhyphen"/>dant on immediate revelations ſo long ſince, un<g ref="char:EOLhyphen"/>certaine to this Age, but by the Rule of Gods Word written on purpoſe to be Canonicall, that is regular to regulate Faith and practice, with aſ<g ref="char:EOLhyphen"/>ſiſtance of the Holy Ghoſt the Teacher, which Chriſt promiſed to teach his Diſciples all things, (<hi>John</hi> Chap. 14.) by vertue of his Prayer for the Believers of his Word, as well as for the Teachers from age to age (<hi>John</hi> Chap. 17.) Believers and Teachers are co-ordained; <hi>Peter</hi> and <hi>Cornelius,</hi> as <hi>Ananias</hi> and <hi>Paul,</hi> prepared one for another in heavedly viſion, to prepare Teachers and Belie<g ref="char:EOLhyphen"/>vers in ordinary diſpenſation, to ſeek of God the fruits of his bleſſing to the glory of his Word, <hi>Heb.</hi> Chap. 4. The word of God is quick and ſharper then any two edged ſword, and is a diſcerner of the thoughts and intents of the heart (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) <hi>ju<g ref="char:EOLhyphen"/>dicative.</hi> God the judge of all, could and would ſpeak plain enough for judging all, if they would regard him ſpeaking plainly, <hi>Ioh. ch,</hi> 12 He that receiveth not my words, hath one that judgeth him; the word that I have ſpoken, the ſame ſhall judge him at the laſt day, <hi>Rev. chap.</hi> 20. The dead were judged out of thoſe things which were writ<g ref="char:EOLhyphen"/>ten
+<pb n="13" facs="tcp:47182:8"/>in the Bookes according to their workes.</p>
+            <p>Prophecy ſpeaketh of things future in the prae<g ref="char:EOLhyphen"/>terit form.</p>
+            <list>
+               <item>1. Becauſe as ſure as if they were already done.</item>
+               <item>2. Becauſe ordained from before.</item>
+               <item>3. Becauſe in doing alwaies as they ſhall be judged at the end; what judgeth the end, judgeth all the meanes thereunto.</item>
+            </list>
+            <p>The end and the meanes, as under the ſame de<g ref="char:EOLhyphen"/>ſcription.</p>
+            <list>
+               <item>1. By the Book of Divine Providence, deſcri<g ref="char:EOLhyphen"/>bing what men were abled to do.</item>
+               <item>2. The Booke of divine Law, and Goſpel, de<g ref="char:EOLhyphen"/>ſcribing what men ought to believe and to do.</item>
+               <item>3. The Book of divine Remembance, deſcribes what men believe and do.</item>
+               <item>4. The Book of Life, what they ſhall receive for believing and doing or not.</item>
+            </list>
+            <p>In this heavenly concatenation of divine Acts, ſhall men abuſively calling themſelves <hi>Divines,</hi> ad<g ref="char:EOLhyphen"/>vance the <hi>Roman</hi> to be more regularly judicious then God? and the <hi>Roman</hi> word of <hi>Tradition,</hi> more indicatively regular than the word of God our Judge; avant blaſphemy, which inſtead of mans Miniſtery, <hi>prideth</hi> mans Magiſterality, to <hi>ſteal</hi> the glory from God, and his written Word, and his almighty Spirit, which helpeth Teachers to judge as Teachers, and learners to judge as learners; the ear judging words as the mouth taſteth meats, and the eye ſeeth fire by its own light, &amp; by its own efficacy; fire warmeth, and a firie ſword burneth and cutteth the hand that daſheth againſt it.</p>
+            <p>The <hi>written Word</hi> of God is all this, <hi>Manna</hi> the bread of heaven, <hi>light</hi> in the face of <hi>Jeſus Chriſt</hi> the
+<pb n="14" facs="tcp:47182:9"/>Sun of Righteouſneſſe; <hi>fire</hi> of zeal among the Che<g ref="char:EOLhyphen"/>rubins, and their flaming ſword; as <hi>bread</hi> feeding to life eternall, as <hi>light</hi> ſhining in faithull mens hearts, as <hi>fire</hi> inkindling Charity; but as the firy-flaming ſword keeping out from Paradiſe, the proud ſcornfully refuſing to depend on God his <hi>written Word</hi> of grace for certainty; The firſt praiſe.</p>
+            <p>The ſecond praiſe (of the new Teſtament writ<g ref="char:EOLhyphen"/>ten) is Integrity witneſſed by <hi>Luke</hi> the Evangeliſt in theſe large expreſſions.</p>
+            <list>
+               <item>1. Of the many which took it in hand to write, not excluding any that were then known of cre<g ref="char:EOLhyphen"/>dit.</item>
+               <item>2. The creditable witneſſes, which ſaw, or heard, and preached the word of the <hi>Goſpel.</hi>
+               </item>
+               <item>3. The matters from the beginning indefinitely, without exception, all things fulfilled (as fore<g ref="char:EOLhyphen"/>told) the things wherein thou haſt <hi>been Catechiſed;</hi> things needfull toward ſalvation by <hi>Chriſt</hi> our Sa<g ref="char:EOLhyphen"/>viour.</item>
+               <item>4. The manner, having diligently attained knowledge, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, having had perfect under<g ref="char:EOLhyphen"/>ſtanding of things from the very firſt.</item>
+               <item>5. The Author, the Holy Ghoſt, it ſeemed good to write <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, the ſame word which is in the <hi>Acts of the Apoſtles,</hi> Chap. 15.28. It ſeemed to the holy Ghoſt, and 2 <hi>Tim.</hi> 3.16. All Scripture inſpired of God; ſo this writing of the Rule was by divine in<g ref="char:EOLhyphen"/>ſpiration of the Holy Ghoſt.</item>
+               <item>6. The intent to make the Goſpel-truth, by <hi>wri<g ref="char:EOLhyphen"/>ting,</hi> more certainly known than by meer narrati<g ref="char:EOLhyphen"/>on, or <hi>unwritten Tradition.</hi>
+               </item>
+            </list>
+            <p>Thus both the praiſes of <hi>Chriſt</hi> his Goſpell by <hi>writing,</hi> the praiſe of more <hi>certainty,</hi> with praiſe of
+<pb n="15" facs="tcp:47182:9"/>
+               <hi>integrity</hi> meet together in the Evangelicall intenti<g ref="char:EOLhyphen"/>on of <hi>Luke,</hi> and of St. <hi>John</hi> alſo, <hi>chap.</hi> 20. <hi>Theſe are written that you might believe, and that believing ye might have life;</hi> and Chap. 22. of the Revelation, <hi>If any man ſhall adde, God ſhall adde to him the plagues that are written in this Book: and if any man ſhall take a<g ref="char:EOLhyphen"/>way from the words of the Book of this prophecy, God ſhall take away his part out of the Book of life. I Ieſus have ſent mine Angel to teſtifie unto you theſe things in the Chur<g ref="char:EOLhyphen"/>ches,</hi> the ſeven Churches of <hi>Aſia</hi> by name.</p>
+            <p>
+               <hi>Chriſt Ieſus</hi> not vouchſafing to name the Church of <hi>Rome,</hi> a ſign of no ſuch love unto her, nor truſt in her. The Angell of <hi>Chriſt</hi> his face or preſence, ſet<g ref="char:EOLhyphen"/>ting his right foot upon the Sea; Wherefore his right foot? <hi>Peter</hi> having not walked with a right foot according to the truth of the Goſpel, (<hi>Gal. chap.</hi> 2.); and called <hi>Satan</hi> by Chriſt, (<hi>Mat.</hi> 16.); and his pretended ſucceſſor the <hi>Pope</hi> (<hi>Herod</hi>-like) ſuffering himſelfe to be called <hi>God,</hi> to be worſhip<g ref="char:EOLhyphen"/>ped and married to the Church-ſpouſe of Chriſt; high time in ſpirit of jealouſie, for the true truſty (meſſenger) Angelique preſentative of Chriſt his glory, to ſtand with ſtrength of his right foot.</p>
+            <p>Wherefore upon the Sea?</p>
+            <p n="1">1. The Sea is myſtically ſignificative of the <hi>general Council</hi> by decree, whereof that Harlot-like Church married to an other, ſet her ſeat of pretended full authority to ſit over Nations as Rivers, meeting in general Council againſt the <hi>decrees</hi> of ſo many former general Councils: by which contradiction her general Councils (as the Red-ſea-waters on both ſides) afforded betwixt them ſafe paſſage a<g ref="char:EOLhyphen"/>gain, for the people of God in ſpirit to depart from <hi>Egyptian</hi> bondage again, ſinging to the praiſe of God
+<pb n="16" facs="tcp:47182:10"/>the ſong of <hi>Moſes</hi> (and the Lamb) again, <hi>Rev. ch.</hi> 15.</p>
+            <p n="2">2 The Sea of the general Council, by whoſe decree that Harlotry-Church on her ſuperconciliar ſeat of Authority, forbiddeth Chriſtian people from communion of the Cup at wedding ſupper of the Lambe: <hi>Chriſt</hi> ordaining the Cup to be the new Co<g ref="char:EOLhyphen"/>venant in his bloud; in forbidding whereof, as if the peoples union with <hi>Chriſt</hi> were by putting wa<g ref="char:EOLhyphen"/>ter to the Wine. Her <hi>Trent Councill</hi> pointeth at the people as waters in the the 17. Chapter of the <hi>Rev.</hi> ſo diſcovering her to be the Harlot there, over the people as waters.</p>
+            <p n="3">3. And in the ſame Sea over <hi>Tongues,</hi> advancing her Latin above all others; ranke <hi>Babylonian</hi> policy for advancing her univerſal Monarchy: <hi>Babylon</hi> in myſtery commandreſſe over <hi>Hebrew</hi> and <hi>Greeke,</hi> wherein was written the word of God almighty.</p>
+            <p n="1">1. By whoſe juſt judgement the <hi>Roman</hi> Church, ſtricken in brain; publiſhed two contradicto<g ref="char:EOLhyphen"/>rious editions of the Bible in Latine, each to be received under denunciation of the greateſt curſe: the firſt putting that out as not the word of God, which the latter put in as the word of God; and the latter putting out as not the word of God, which the former put in as the word of God: So the <hi>Papiſts,</hi> whether they receive or receive not the <hi>Latin</hi> edition, are curſed by the <hi>Roman</hi> Church; and the <hi>Roman</hi> Church, and they while ſubject to the <hi>Roman</hi> Church, are under the curſe of <hi>Chriſt,</hi> for ad<g ref="char:EOLhyphen"/>ding &amp; detracting from the written Book of <hi>Chriſt,</hi> both falſly publiſhed in the name of Chriſt, both by pretence of <hi>Trent Councill</hi>-authority; which not onely thus dejecteth the Book of <hi>Chriſt</hi> under the <hi>Roman</hi> word, as of more certainty for her adhe<g ref="char:EOLhyphen"/>rents,
+<pb n="17" facs="tcp:47182:10"/>but impoſeth <hi>unwritten Traditions</hi> to be recei<g ref="char:EOLhyphen"/>ved with equall reverence.</p>
+            <p>For prevention whereof, <hi>Chriſt</hi> by his Angelicall preſence of his glory, bid, <hi>Write the things which thou haſt ſeen, and the things which are, and the things which ſhall be hereafter,</hi> Rev. Chap. 1. For the fall of <hi>Baby<g ref="char:EOLhyphen"/>lon,</hi> write Chap. 14. after the voice from heaven <hi>Come out of her my people.</hi> For holy communion of <hi>Iewes</hi> and <hi>Gentiles,</hi> write <hi>chap.</hi> 19. For Reformation of all, write, Untill he ſay, It is done, <hi>chap.</hi> 21. A voice from the Throne ſaid, I make all things new; write, For theſe words are true, importing Caution to beware of the <hi>unwritten</hi> as untrue. In the midſt of all that mighty Angel of the Covenant, with a Rainbow about his head, ſware, the myſtery of God ſhall be finiſhed, as he hath declared by his ſer<g ref="char:EOLhyphen"/>vants the Prophets: Are not their Prophecies holy Scriptures? and did he not for that intent hold the Book open in his hand when he ſware? and ſet his foot in deſpight on the Sea, after which no more Sea, the laſt Sea; and the <hi>Councill of Trent</hi> boaſted to be the laſt, after which no more ſhould need, no more intended by them, to hinder (the freedom of juſt and full Reformation) by that oath of that <hi>P. Pius,</hi> for the <hi>Trent</hi>-frauds and <hi>unwritten Traditi<g ref="char:EOLhyphen"/>ons:</hi> how weak againſt Chriſts oath, out of whoſe mouth the two edged ſword? How raſhly doth their laſt Annotation on the New Teſtament, pray <hi>Chriſt</hi> to judge betwixt them and Proteſtants? hath he not thus judged already? <hi>Chriſt have mercy upon us all, that by his Grace we may repent, and be fully re<g ref="char:EOLhyphen"/>formed, to his Glory.</hi> Amen.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
